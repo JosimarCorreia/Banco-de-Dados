@@ -1,0 +1,1 @@
+DELETE FROM modelo WHERE id_modelo = 4
